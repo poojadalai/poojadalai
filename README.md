@@ -1,4 +1,12 @@
 ### :sunglasses: Hey! Nice to see you.
+---------------------------------------------------------------------------------------
+
+Welcome to my page!
+I'm Thomas, Fullstack developer from  India, currently living in  Amsterdam, Netherlands.
+
+Things I code with
+Javascript React Webpack github redux ReactiveX GraphQL Sass Styled Components git NodeJS  npm html5 Prettier
+
 
 <!--
 **poojadalai/poojadalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
