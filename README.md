@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 
 Welcome to my page!
-I'm Thomas, Fullstack developer from  India, currently living in  Amsterdam, Netherlands.
+I'm Pooja, Fullstack developer from  India, currently living in  Amsterdam, Netherlands.
 
 <!--
 Things I code with
