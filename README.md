@@ -4,6 +4,8 @@
 Welcome to my page!
 I'm Pooja, Fullstack developer from  India, currently living in  Amsterdam, Netherlands.
 
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />][blog]
+
 <!--
 Things I code with
 Javascript React Webpack github redux ReactiveX GraphQL Sass Styled Components git NodeJS  npm html5 Prettier
