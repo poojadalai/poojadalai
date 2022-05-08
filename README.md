@@ -1,9 +1,12 @@
-### Hello! I am Pooja Dalai :grin:
+# Junior Full Stack Developer
 
----
+### Hi there! I'm Pooja DalaiI :wave:
 
-Welcome to my page!
-I'm Pooja, Fullstack developer from India, currently living in Amsterdam, Netherlands.
+## ABOUT ME
+
+- I'm 25 years old and I am from India. A passionate full stack web developer.
+- I have completed my graduation from infromation technology. I´m based in Amsterdm, Netherlandse.
+- I joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset.
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 
