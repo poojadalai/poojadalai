@@ -9,7 +9,6 @@
 - Information Technology Graduated from India.
 - Have one year of working experience in Netherlands as a full stack developer.
 - 🌱Joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset. 
-- 
 
 ## TECH STACK
 
