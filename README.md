@@ -4,10 +4,12 @@
 
 ## 💬 ABOUT ME
 
-- I'm 25 years old and I am from India. A passionate full stack web developer. I have completed my graduation
-  in infromation technology. I´m based in Amsterdm, Netherlands.
-- I have one year of experience in Netherlands as a full stack developer.
-- 🌱I joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset.
+- 25 years old indian living in Amsterdam, Netherlands. 
+- A passionate full stack web developer.
+- Information Technology Graduated from India.
+- Have one year of working experience in Netherlands as a full stack developer.
+- 🌱Joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset. 
+- 
 
 ## TECH STACK
 
