@@ -1,4 +1,4 @@
-# ✨Junior Full Stack Developer✨
+# ✨Full Stack Developer✨
 
 ### Hi there! I'm Pooja Dalai :wave:😄
 
