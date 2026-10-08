@@ -1,45 +1,138 @@
-# ✨Full Stack Developer✨
+# Hi, I'm Pooja Dalai 👋
 
-### Hi there! I'm Pooja Dalai :wave:😄
+### Frontend Developer | React | Next.js | TypeScript | React Native
 
-## 💬 ABOUT ME
+I'm a **Frontend Developer with 5+ years of professional experience**, based in the Netherlands 🇳🇱, passionate about building scalable, accessible, and maintainable web and mobile applications.
 
-- 25 years old indian living in Amsterdam, Netherlands. 
-- A passionate full stack web developer.
-- Information Technology Graduated from India.
-- Have one year of working experience in Netherlands as a full stack developer.
-- 🌱Joined the Full-Stack Developer bootcamp at Codaisseur Academy which greatly expanded my practical skillset. 
+I specialize in **React, Next.js, TypeScript, and React Native**, with experience working across frontend architecture, design systems, API integration, testing, and modern application development.
 
-## TECH STACK
+I enjoy turning complex requirements into clean, intuitive user experiences and building reusable solutions that make development teams more productive.
 
-<img alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br><img alt="medium" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /><br><img alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="medium" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><br><img alt="medium" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /><br>
-<img alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+---
 
-### I am also familiar with
+## 🚀 About Me
 
-<img alt="medium" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="medium" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img alt="medium" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+- 💻 **5+ years of professional software development experience**
+- ⚛️ Strong focus on **React, Next.js & TypeScript**
+- 📱 Experience building **React Native** applications
+- 🎨 Built and maintained **reusable design systems & component libraries**
+- 🧪 Strong focus on **testing and code quality**
+- 🔌 Experienced with **REST APIs, data fetching and state management**
+- 🏗️ Interested in **frontend architecture, scalability and performance**
+- 🌱 Currently strengthening my **full-stack and system design** skills
+- 🇳🇱 Based in the **Netherlands**
 
-### 📫 Find me elsewhere
+---
 
-<a href="https://www.linkedin.com/in/pooja-dalai-b00948121/"> LINKEDIN </a>
+## 🛠️ Tech Stack
 
-<!--
-Things I code with
-Javascript React Webpack github redux ReactiveX GraphQL Sass Styled Components git NodeJS  npm html5 Prettier
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### UI & Design Systems
 
-**poojadalai/poojadalai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Here are some ideas to get you started:
+### Data & State Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+### Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Other Technologies
+
+![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 🏗️ What I Work On
+
+### ⚛️ Modern Frontend Applications
+Building production applications with **React, Next.js and TypeScript**, focusing on maintainability, performance and a great user experience.
+
+### 🎨 Design Systems
+Experienced in building reusable component libraries and design systems using technologies such as **Vite, Radix UI and Storybook**.
+
+### 📱 React Native
+Developing cross-platform mobile applications with React Native, including API integration, state management and native platform functionality.
+
+### 🧪 Testing & Quality
+Writing reliable applications with **Vitest, Jest and React Testing Library**, with an emphasis on maintainable and testable code.
+
+### 🔗 APIs & Application Architecture
+Working with REST APIs, data fetching, caching and application state using tools such as **TanStack Query**.
+
+---
+
+## 📌 Featured Projects
+
+### 💼 Job Application Tracker
+
+A personal full-stack application for managing job applications through a complete recruitment pipeline.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS
+
+Features include application tracking, pipeline management and an AI-powered job description/resume matching concept.
+
+---
+
+### ⚡ WattMaestro
+
+Production web application focused on energy management and monitoring.
+
+**Tech:** Next.js · React · TypeScript · TanStack Query
+
+---
+
+### 📱 ARMOR
+
+React Native mobile application developed for a production environment.
+
+**Tech:** React Native · TypeScript · APIs
+
+---
+
+## 📚 Currently Learning
+
+I'm continuously expanding my knowledge in:
+
+- 🏗️ Frontend architecture & scalable application design
+- 🌐 Full-stack development with Next.js
+- 🤖 AI-powered application features
+- 🧩 System design
+- ☁️ Cloud & modern deployment practices
+- 🧪 Advanced testing strategies
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with developers, engineers and companies working on interesting products.
+
+**LinkedIn:** [linkedin.com/in/pooja-dalai-b00948121](https://www.linkedin.com/in/pooja-dalai-b00948121/)
+
+---
+
+⭐ If you find something useful here, feel free to explore my repositories!
